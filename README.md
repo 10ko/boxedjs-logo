@@ -9,5 +9,5 @@ This is the repo for the [boxedjs](https://github.com/10ko/boxedjs) logo.
  - Logo svg export.
  - Catamaran typeface (original repo [here](https://github.com/VanillaandCream/Catamaran-Tamil)).
 
-
-©Copyright Emanuele Libralato - All rights reserved.
+<br><br><br><br><br>
+© 2017 Copyright Emanuele Libralato - All rights reserved.
